@@ -1,0 +1,7 @@
+# Go
+*.exe
+/study-timer
+/study-timer.exe
+
+.env
+*.log
