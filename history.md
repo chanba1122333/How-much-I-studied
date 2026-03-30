@@ -19,3 +19,6 @@
 ## 2026-03-30 15:27:48
 - asff : 1 minutes Total 1 minutes studied
 
+## 2026-03-30 15:31:04
+- Golang : 1 minutes boj : 1 minutes Total 2 minutes studied
+
