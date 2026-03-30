@@ -13,3 +13,6 @@
 ## 2026-03-30 15:19:49
 - golang : 1 minutes boj : 1 minutes Total 2 minutes studied
 
+## 2026-03-30 15:20:46
+- golang : 1 minutes boj : 1 minutes Total 2 minutes studied
+
